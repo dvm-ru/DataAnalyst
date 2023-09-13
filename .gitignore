@@ -16,3 +16,7 @@ $ cat .gitignore
 
  !/DataAnalyst.code-workspace 
  !/README.md
+YandexPracticum/ПроектИсследованиеПродажКомпьютерныхИгр/2023_09_11_10_00_notebook_V2.ipynb
+YandexPracticum/ПроектМузыкаБольшихГородов/datasets/yandex_music_project.csv
+YandexPracticum/ПроектИсследовательскийАнализДанных/datasets/real_estate_data.csv
+YandexPracticum/ПроектИсследованиеПродажКомпьютерныхИгр/datasets/games.csv
